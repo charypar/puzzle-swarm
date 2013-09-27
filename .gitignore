@@ -1,0 +1,10 @@
+*.class
+
+dist/
+build/
+
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
+
+.DS_Store
